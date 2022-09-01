@@ -86,7 +86,7 @@
           </div>
         </div>
         <h5 class="font-weight-normal">Fun fact</h5>
-        <p> <?php echo 'Outside of work/school I enjoy spending time with family, friends and my two dogs. I frequently take my dogs on hikes or to the dog park.'; ?> </p>
+        <p> <?php echo 'Outside of work/school I enjoy spending time with family, friends and my two dogs. I frequently take my dogs on hikes or to the dog park.'; ?> <?php echo '<a href=""http://localhost/assignment1_neace/sarah_neace.php">Link to previous page!</a>'; ?></p>
       </div>
     </div>
   </div>
